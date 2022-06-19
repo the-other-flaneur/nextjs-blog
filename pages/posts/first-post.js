@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from 'next/link'; // for client side navigation
 
 export default function FirstPost() {
     return (
